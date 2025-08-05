@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🖥️  Formado em Análise e Desenvolvimento de Sistemas<br>📚 Estudando Java, Spring Boot, React e desenvolvimento backend<br>🌍 Explorando novas tecnologias e desenvolvendo soluções de software</p>
+<p align="left">🖥️  Formado em Análise e Desenvolvimento de Sistemas<br>📚 Estudando Java, Spring Boot, Angular e desenvolvimento backend<br>🌍 Explorando novas tecnologias e desenvolvendo soluções de software</p>
 
 ###
 
